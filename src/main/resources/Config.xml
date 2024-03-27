@@ -1,0 +1,9 @@
+<!--持久化存储-->
+
+<Apps>
+    <app>
+        <id>1</id>
+        <name>QQ</name>
+        <other>测试</other>
+    </app>
+</Apps>
